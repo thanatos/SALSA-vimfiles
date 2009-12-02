@@ -1,8 +1,6 @@
 " Vim syntax file
 " Language: SALSA
 
-autocmd BufRead,BufNewFile *.salsa setf salsa
-
 syn keyword salsaConstant null
 syn match salsaConstant "[0-9]\+"
 
