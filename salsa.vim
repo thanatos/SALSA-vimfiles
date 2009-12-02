@@ -1,5 +1,6 @@
 " Vim syntax file
 " Language: SALSA
+" Author: Roy Wellington
 
 syn keyword salsaConstant null
 syn match salsaConstant "[0-9]\+"
